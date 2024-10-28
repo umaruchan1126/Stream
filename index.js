@@ -9,7 +9,7 @@ const textthree = "";
 const textfour = "";
 const type = "STREAMING";
 const pictureGede = [
-"https://cdn.discordapp.com/attachments/1221090089514434620/1221097207080423585/nice-hamatora.gif?ex=6669aae5&is=66685965&hm=c12802442aa7ead3138a337bd02f813e916745dce60da0ad949e2dc7f28c1a3e&",
+"https://cdn.discordapp.com/attachments/1221090089514434620/1267775876918153308/5A0DE3F5-5BB6-4881-9CA2-38ED6D3F9ABF.gif?ex=6720aacb&is=671f594b&hm=e990c02f69b7413bd3f12ace8f77c3654f98fb0d3b21d7ec4fb7abde4b58f599&",
   
                          ];
 const smallpictureGede = [
