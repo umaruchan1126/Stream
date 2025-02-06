@@ -59,4 +59,4 @@ client.on('ready', async () => {
 });
 
 // Login with your Discord token (ensure to replace with your actual token)
-client.login('YOUR_DISCORD_TOKEN');
+client.login('TOKEN');
